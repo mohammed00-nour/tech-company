@@ -13,7 +13,7 @@ function Contact() {
 
         <link
           rel="canonical"
-          href="https://YOUR-DOMAIN.com/contact"
+          href="https://mohammed00-nour.github.io/tech-company/contact"
         />
       </Helmet>
 

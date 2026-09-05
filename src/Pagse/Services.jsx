@@ -13,7 +13,7 @@ function Services() {
 
         <link
           rel="canonical"
-          href="https://YOUR-DOMAIN.com/services"
+          href="https://mohammed00-nour.github.io/tech-company/services"
         />
       </Helmet>
 

@@ -13,7 +13,7 @@ function About() {
 
         <link
           rel="canonical"
-          href="https://YOUR-DOMAIN.com/about"
+          href="https://mohammed00-nour.github.io/tech-company/about"
         />
       </Helmet>
 

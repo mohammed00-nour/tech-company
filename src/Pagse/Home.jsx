@@ -13,7 +13,7 @@ function Home() {
 
         <link
           rel="canonical"
-          href="https://YOUR-DOMAIN.com/"
+          href="https://mohammed00-nour.github.io/tech-company/"
         />
     </Helmet>
     <main>
