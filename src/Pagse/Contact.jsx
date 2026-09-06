@@ -15,6 +15,16 @@ function Contact() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/contact"
         />
+        <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "ContactPage",
+          name: "Contact Tech Company",
+          description:
+            "Contact Tech Company to discuss your project and learn more about our web development, mobile application, and digital solutions.",
+          url: "https://mohammed00-nour.github.io/tech-company/contact",
+        })}
+      </script>
       </Helmet>
 
       <main>
