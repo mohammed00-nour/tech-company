@@ -15,6 +15,19 @@ function About() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/about"
         />
+        <meta property="og:title" content="About Us | Tech Company" />
+
+        <meta
+          property="og:description"
+          content="Learn more about Tech Company, our mission, and our vision for providing innovative technology solutions for businesses."
+        />
+
+        <meta
+          property="og:url"
+          content="https://mohammed00-nour.github.io/tech-company/about"
+        />
+
+        <meta property="og:type" content="website" />
         <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",

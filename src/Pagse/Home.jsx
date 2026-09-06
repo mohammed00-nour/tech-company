@@ -15,6 +15,19 @@ function Home() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/"
         />
+        <meta property="og:title" content="Tech Company | Innovative Technology Solutions" />
+
+        <meta
+          property="og:description"
+          content="Tech Company provides modern technology and digital solutions to help businesses grow and succeed."
+        />
+
+        <meta
+          property="og:url"
+          content="https://mohammed00-nour.github.io/tech-company/"
+        />
+
+        <meta property="og:type" content="website" />
         <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",

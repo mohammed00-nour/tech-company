@@ -15,6 +15,19 @@ function Contact() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/contact"
         />
+        <meta property="og:title" content="Contact Us | Tech Company" />
+
+        <meta
+          property="og:description"
+          content="Contact Tech Company to discuss your project and learn more about our web development, mobile application, and digital solutions."
+        />
+
+        <meta
+          property="og:url"
+          content="https://mohammed00-nour.github.io/tech-company/contact"
+        />
+
+        <meta property="og:type" content="website" />
         <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",

@@ -15,6 +15,19 @@ function Services() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/services"
         />
+        <meta property="og:title" content="Our Services | Tech Company" />
+
+        <meta
+          property="og:description"
+          content="Explore Tech Company's web development, mobile application, and digital solutions designed to help businesses grow."
+        />
+
+        <meta
+          property="og:url"
+          content="https://mohammed00-nour.github.io/tech-company/services"
+        />
+
+        <meta property="og:type" content="website" />
         <script type="application/ld+json">
         {JSON.stringify({
           "@context": "https://schema.org",
