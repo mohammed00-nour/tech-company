@@ -15,6 +15,30 @@ function Services() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/services"
         />
+        <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          name: "Tech Company Services",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              name: "Web Development",
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              name: "Mobile Applications",
+            },
+            {
+              "@type": "ListItem",
+              position: 3,
+              name: "Digital Solutions",
+            },
+          ],
+        })}
+      </script>
       </Helmet>
 
       <main>
