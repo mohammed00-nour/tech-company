@@ -15,6 +15,16 @@ function Home() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/"
         />
+        <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          name: "Tech Company",
+          url: "https://mohammed00-nour.github.io/tech-company/",
+          description:
+            "Tech Company provides modern technology and digital solutions to help businesses grow and succeed.",
+        })}
+      </script>
     </Helmet>
     <main>
       <section>
