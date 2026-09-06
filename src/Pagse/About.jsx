@@ -15,6 +15,17 @@ function About() {
           rel="canonical"
           href="https://mohammed00-nour.github.io/tech-company/about"
         />
+        <script type="application/ld+json">
+        {JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "AboutPage",
+          name: "About Tech Company",
+          description:
+            "Learn more about Tech Company, our mission, and our vision for providing innovative technology solutions for businesses.",
+          url: "https://mohammed00-nour.github.io/tech-company/about",
+        })}
+      </script>
+
       </Helmet>
 
       <main>
